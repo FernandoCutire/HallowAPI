@@ -1,0 +1,11 @@
+{
+  "name": "hallowapi",
+  "version": "1.0.0",
+  "description": "the definitive halloween api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Cutire",
+  "license": "ISC"
+}
